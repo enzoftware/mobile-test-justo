@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="progress_bar_size">48dp</dimen>
+    <dimen name="profile_picture_size">96dp</dimen>
+    <dimen name="profile_picture_border_width">2dp</dimen>
+    <dimen name="result_card_border_radius">16dp</dimen>
+    <dimen name="random_user_screen_margin">48dp</dimen>
+    <dimen name="random_user_card_margin">16dp</dimen>
+</resources>
